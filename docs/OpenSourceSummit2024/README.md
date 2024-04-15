@@ -13,7 +13,7 @@ contribute to the error standardization efforts in the Dapr open-source project.
 
 ## Cassie Coyle
 
-[Bio](./cassie-oss-bio.md) | [Pic](../../assets/cassie-coyle-pic-2024.png)
+[Bio](./cassie-coyle-oss-bio.md) | [Pic](../../assets/cassie-coyle-pic-2024.png)
 
 ## Resources
 
